@@ -1,0 +1,39 @@
+
+  body {
+    background-color: #FCF8E8;
+    font-family: system-ui,serif;
+     }
+
+   hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-top-color: #BF9742;
+    border-top-width: 6px;
+    width: 15%;
+    }
+
+  h1{
+    color: #A47E3B;
+    font-family: Lucida Handwriting, cursive;
+   }
+  h3 {
+    color: #A47E3B;
+    font-family: Lucida Calligraphy, cursive;
+   }
+
+
+/* -------------- self summery clss ------------*/
+.self-summery{
+  font-size: 25px
+}
+
+/* ----------------- sudo shit using hover on all h3 ---------- */
+h3:hover{
+  font-size: 23px;
+  color: gold;
+}
+
+img:hover{
+  height: 250px;
+  width: 250px;
+}
